@@ -1,0 +1,3 @@
+#!/bin/bash
+# the next line restarts using wish 
+exec wish /home/pocahontas/util/bin/tktasks.tcl
