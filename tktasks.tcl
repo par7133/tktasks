@@ -14,7 +14,7 @@ puts "---------------------------------------"
 puts ""
 puts ""
 
-cd /home/pocahontas/util/bin
+cd /home/user/util/tkbin
 
 # Variable and Proc declarations
 
